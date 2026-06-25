@@ -476,7 +476,6 @@ Potential features for future versions:
 - [ ] Image generation for social content
 - [ ] Scheduling capability
 - [ ] Analytics integration
-- [ ] Content calendar view
 - [ ] A/B testing suggestions
 - [ ] Hashtag trend analysis
 - [ ] Competitor analysis
