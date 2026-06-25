@@ -70,6 +70,19 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### Step 4: Set Up API Key
+#### Option A: Environment Variable
+```bash
+# On Windows (Command Prompt):
+set GEMINI_API_KEY=your_api_key_here
+
+# On Windows (PowerShell):
+$env:GEMINI_API_KEY='your_api_key_here'
+
+# On macOS/Linux:
+export GEMINI_API_KEY='your_api_key_here'
+```
+
 ## 🚀 How to Run
 
 ### Start the Application
@@ -491,6 +504,4 @@ Generate amazing social media content with the power of Google Gemini AI. Your b
 *Last Updated: January 2024*
 *Version: 1.0.0*
 *Built with ❤️ using Python and Google Gemini API*
-#   S o c i a l _ M e d i a _ C o n t e n t _ G e n e r a t o r 
- 
- 
+#
